@@ -19,11 +19,6 @@ The following **required** functionality is completed:
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Picasso](http://square.github.io/picasso/) - Image loading and caching library for Android
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/a/GNMljU0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
