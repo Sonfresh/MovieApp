@@ -1,0 +1,7 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction@TOOL_WINDOW_TOOLBAR" count="1" />
+    </counts>
+  </component>
+</application>
